@@ -1,6 +1,6 @@
 Django>=4.2
 djangorestframework
-djangorestframework-authtoken
+djangorestframework-simplejwt
 redis
 django-cors-headers
 python-dotenv
