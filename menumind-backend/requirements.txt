@@ -1,0 +1,6 @@
+Django>=4.2
+djangorestframework
+djangorestframework-authtoken
+redis
+django-cors-headers
+python-dotenv
