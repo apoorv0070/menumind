@@ -4,3 +4,5 @@ djangorestframework-simplejwt
 redis
 django-cors-headers
 python-dotenv
+gunicorn
+uvicorn[standard]
